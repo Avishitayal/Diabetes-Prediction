@@ -16,11 +16,11 @@ Here, we have deal with the null values and replaced them with median of a parti
 ## Result
 The following table shows the accuracy of each machine learning algorithm used in the project:
 
-Algorithm	                           Accuracy
-Naive Bayes	                         0.775
-Support Vector Machine	             0.792
-Logistic Regression	                 0.779
-Random Forest Classifier	           0.792
-Bagging Classifier	                 0.800
+|Algorithm|	                         |Accuracy|
+|Naive Bayes|	                         |0.775|
+|Support Vector Machine|	             |0.792|
+|Logistic Regression|	                 |0.779|
+|Random Forest Classifier|	           |0.792|
+|Bagging Classifier|	                 |0.800|
 
 Based on the results, the Bagging Classifier algorithm performs the best with an accuracy of 0.80.
